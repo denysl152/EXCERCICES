@@ -1,0 +1,9 @@
+.collapse{
+    display: flex;
+    justify-content: flex-end;
+    align-items: space-around;
+}
+.navbar{
+    color: black;
+    background-color: aqua;
+}

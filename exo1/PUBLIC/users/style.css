@@ -1,0 +1,15 @@
+
+.users-table td{
+    border: 2px solid magenta;
+    padding: 5px;
+}
+.container{
+ width: 100%;  
+}
+.users-table{
+    display: flex;
+    justify-content: center; 
+}
+.margin{
+    font-weight: bold;
+}

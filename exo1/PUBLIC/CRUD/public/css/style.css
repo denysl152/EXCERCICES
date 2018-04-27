@@ -1,0 +1,11 @@
+label {
+	display: block;
+	margin: 5px 0;
+}
+
+#container-flex{
+	display: flex;
+}
+form{
+	margin: 5px;
+}

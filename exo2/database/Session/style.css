@@ -1,0 +1,12 @@
+.container{ 
+    display: flex;
+    justify-content: center;
+ }
+ .div-Contain{
+     height: 100px;
+     width: 150px;
+ }
+ h2{
+     padding-bottom: 30px;
+ }
+ 
